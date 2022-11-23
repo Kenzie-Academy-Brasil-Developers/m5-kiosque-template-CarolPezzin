@@ -1,0 +1,1 @@
+alias pytest="python3 -m pytest"
